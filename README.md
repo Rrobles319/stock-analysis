@@ -8,9 +8,8 @@ We will be refactoring Steve's code to run through data set once. The purpose of
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 In just over 0.7 seconds, running our AllStocksAnalysis(Refactored) Macro concludes 2017 was exponentially more profitable for these 12 green energy stock while 2018 was not. The critical diffenece between original and refactored code is the implementation of additional arrays.
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/80009944/116812173-5694ef80-ab1b-11eb-907a-6d5eac22735b.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/80009944/116812183-5e549400-ab1b-11eb-9c2a-d2a33827060c.png)
 
+[![VBA_Challenge_2017](https://user-images.githubusercontent.com/80009944/116812690-0f5c2e00-ab1e-11eb-9374-ae3d2a59479d.png)](url)
 
 
 ## Summary: In a summary statement, address the following questions.
